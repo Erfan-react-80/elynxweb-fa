@@ -1,0 +1,17 @@
+users:
+a person that need a website
++ a coach/gym maneageer get atheles form digital world 
++ a company that need a site for describe itself
+
+sections: 
+logo  / why you need site / plans / portfolio / about / contact
+
+prefers: 
+cool color / good price / less about technologies
+
+tips: 
+#47E7BF
+#101010
+#FFFFFF
+#DFE126
+#17C8E5
